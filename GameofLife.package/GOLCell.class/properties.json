@@ -1,0 +1,14 @@
+{
+	"category" : "GameOfLife",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"mouseAction" ],
+	"name" : "GOLCell",
+	"pools" : [
+		 ],
+	"super" : "SimpleSwitchMorph",
+	"type" : "normal" }
